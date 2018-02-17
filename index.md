@@ -1,11 +1,11 @@
 
 **Nabeel Tariq**  
 *Class of '18, MSBA, Goizueta Business School, Emory University*  
-[Resume](../nabeeltariq2.github.io/Resume_Nabeel Tariq_Goizueta_MSBA.pdf) | [LinkedIn](https://www.linkedin.com/in/nabeeltariq2/)  
+[Resume](https://github.com/nabeeltariq2/nabeeltariq2.github.io/blob/master/Resume_Nabeel%20Tariq_Goizueta_MSBA.pdf) | [LinkedIn](https://www.linkedin.com/in/nabeeltariq2/)  
 
 ### About me
 
-I am a current graduate student pursing a a Masters degree in Business Analytics (MSBA) at Emory University's Goizueta Business School, and have 2.5 years' experience in Analytics and Insights for the Telecom Sector.
+I am a current graduate student pursing a Masters degree in Business Analytics (MSBA) at Emory University's Goizueta Business School, and have 2.5 years' experience in Analytics and Insights for the Telecom Sector.
 
 My program and experience at Goizueta ranges from courses in Machine Learning, Managing Big Data, Data Visualization, Social Network Analysis to an emphasis on Consulting, Business Management, and real-world Analytical Applications. I'm also conducting academic research in the information systems area, focusing on recommender systems and online experimentation, with potential ecommerce applications.
 
