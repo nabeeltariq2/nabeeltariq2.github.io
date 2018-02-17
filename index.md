@@ -1,13 +1,25 @@
 
-### Who are you?
-
 **Nabeel Tariq**  
 *Class of '18, MSBA, Goizueta Business School, Emory University*  
-<!-- [Resume](../nikchalakkal.github.io/Nikhil_Chalakkal_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/nikhilchalakkal/ "Nikhil's LinkedIn")   -->
+[Resume](../nabeeltariq2.github.io/Resume_Nabeel Tariq_Goizueta_MSBA.pdf) | [LinkedIn](https://www.linkedin.com/in/nabeeltariq2/)  
 
-### What's this Git about?
+### About me
 
-I am currently pursuing a Masters degree: **_MS in Business Analytics (MSBA)_** from Goizueta Business School, Emory University. My course covers topics in **_Data Analytics_** (Machine Learning, Managing Big Data, Social Networks, Data Visualization and others), teaching us various **_Analytics Techniques_** (Classification, Regression and more) using multiple **_Programming Languages_** (R, Python, SQL and others) and **_Analytics Tools_** (Tableau, RapidMiner, and more).   
+I am a current graduate student pursing a a Masters degree in Business Analytics (MSBA) at Emory University's Goizueta Business School, and have 2.5 years' experience in Analytics and Insights for the Telecom Sector.
+
+My program and experience at Goizueta ranges from courses in Machine Learning, Managing Big Data, Data Visualization, Social Network Analysis to an emphasis on Consulting, Business Management, and real-world Analytical Applications. I'm also conducting academic research in the information systems area, focusing on recommender systems and online experimentation, with potential ecommerce applications.
+
+I completed my BSc (Hons) in Accounting and Finance from the Lahore University of Management Sciences (LUMS) in 2014, and have worked in the Telecom Sector till 2017.
+
+My experience in Telecom Analytics ranges from setting up analytical models, application of data science for revenue improvement and optimization to leading marketing research, and internal consulting across Marketing, Commercial, Strategy and Financial Services for improving data driven decision making.
+
+Analytical Tools: Spark, Cloud Computing, Hadoop, Jupyter, Rstudio, RapidMiner, Tableau, SPSS, MicroStrategy, SAP InfiniteInsight, Nvivo
+
+Languages: SQL, R, Python
+
+Techniques: Market research & sampling, visualization, classification, regression, predictive modeling, decision tree learning, clustering, need-based & behavioral segmentation, sentiment analysis, recommender systems, neural networks, optimization, pipelines, real-time processing, command line, full-stack web development.
+
+Amazon Web Services Tools Experience : EC2, EMR (Spark and Hadoop), Kinesis, RDS, DynamoDB, Elastic Beanstalk
 
 
-Get in touch with me at nabeeltariq2@gmail.com
+Connect with me at nabeeltariq2@gmail.com.
